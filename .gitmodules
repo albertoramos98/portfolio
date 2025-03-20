@@ -1,0 +1,3 @@
+[submodule "simplefolio"]
+	path = simplefolio
+	url = https://github.com/albertoramos98/portfolio
